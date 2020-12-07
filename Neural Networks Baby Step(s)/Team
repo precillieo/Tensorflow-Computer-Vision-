@@ -1,0 +1,12 @@
+Contained In this folder are my approaches in solving:
+1. The popularly known Titanic Challenge, where a ship collided with an iceberg which led to the sinking(Classification Problem)
+Link to Dataset: https://github.com/Precillieo/SCAMP-Assessment labelled (train.csv, test.csv)
+Full analysis and visualization: https://github.com/Precillieo/SCAMP-Assessment/blob/master/Titanic%20Prediction-Copy1.ipynb
+
+2. The Housing Price Challenge. It pertains houses found in a given California district and some summary stats about them based on the 1990 census data(Regression Problem)
+Link to Dataset: https://github.com/Precillieo/housing-prices labelled (train.csv, test.csv)
+Full analysis: https://github.com/Precillieo/housing-prices/blob/master/Price%20Prediction.ipynb
+
+Moreso, low level Tensorflow will then be compared to Keras Neural Network functionalities.
+
+
